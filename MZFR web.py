@@ -3,7 +3,7 @@ import streamlit as st
 
 # Page Configuration
 st.set_page_config(
-    page_title="မဟာဇနက အနာဂတ်ဟောကိန်း",
+    page_title="မဟာဇနက္က အနာဂတ်ဟောကိန်း",
     page_icon="🔮",
     layout="centered"
 )
